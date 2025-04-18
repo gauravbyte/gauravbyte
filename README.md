@@ -27,7 +27,7 @@
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravbyte&show_icons=true&theme=github_dark)
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/gauravbyte/)
+- LinkedIn: [linkedin.com/in/gauravbyte](https://www.linkedin.com/in/gauravbyte/)
 - Email: gauraviitmcse@gmail.com
 
 > "Stay hungry, stay foolish – but always stay consistent."
