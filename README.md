@@ -24,7 +24,7 @@
 - [More on the way – stay tuned!]
 
 ## 📈 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravbyte&show_icons=true&theme=github_dark)
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/gauravbyte/)
