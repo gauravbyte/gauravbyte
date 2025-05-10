@@ -5,7 +5,6 @@
 💼 Currently working as a **Software Engineer at Hero MotoCorp**, Bangalore 
 🔍 Done Internship in GenAI in GE Healthcare Worked on Radiology images and reports
 🚀 Passionate about building scalable backend systems and solving complex problems  
-📈 Actively preparing for roles in product-based companies (MAANG & more)
 
 ## 🧠 Tech Stack
 - **Languages**: Java, C++, Python
@@ -16,7 +15,6 @@
 ## 📚 Currently Learning
 - Advanced System Design  
 - Low-level programming in C++  
-- Cracking Amazon & FAANG-style interviews  
 
 ## 🛠️ Projects
 - Data sync microservice using Spring Boot & Kubernetes
