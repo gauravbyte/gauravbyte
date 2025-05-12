@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gaurav — @gauravbyte
+# 👋 Hi there, I'm Gaurav 
 
 🎓 M.Tech in Computer Science from **IIT Madras**  
 💼 Backend Developer at **Hero MotoCorp**, Bangalore  
