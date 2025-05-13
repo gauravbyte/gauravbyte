@@ -34,20 +34,6 @@
 
 ---
 
-## 📚 Currently Exploring
-
-- 🧱 Advanced System Design (Scalability, Consistency, Caching)
-- 🧵 Low-Level Programming with **C++** & Linux internals
-
----
-
-## 🌟 Notable Projects
-
-- 🔁 **Data Sync Microservice** — Spring Boot + K8s job syncing relational DB tables  
-- ⚡ **Kafka Event Streaming** — Built a real-time event pipeline using Kafka + Redis  
-- 📈 More exciting projects coming soon – stay tuned!
-
----
 
 ## 📊 GitHub Stats
 
