@@ -1,13 +1,13 @@
-# 👋 Hi there, I'm Gaurav 
+# Hi there, I'm Gaurav 
 
-🎓 M.Tech in Computer Science from **IIT Madras**  
-💼 Backend Developer at **Hero MotoCorp**, Bangalore  
-🧠 Former GenAI Intern at **GE Healthcare** – worked on radiology image & report generation  
-🚀 Passionate about **scalable systems**, **distributed architectures**, and **clean code**
+ M.Tech in Computer Science from **IIT Madras**  
+ Backend Developer at **Hero MotoCorp**, Bangalore  
+Former GenAI Intern at **GE Healthcare** – worked on radiology image & report generation  
+Passionate about **scalable systems**, **distributed architectures**, and **clean code**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -29,19 +29,19 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **CS Fundamentals:**  
-🧩 Data Structures & Algorithms  
-🧠 System Design (HLD + LLD)
+ Data Structures & Algorithms  
+ System Design (HLD + LLD)
 
 ---
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravbyte&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gauravbyte/)
 - 📧 gauraviitmcse@gmail.com
