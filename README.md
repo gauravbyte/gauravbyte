@@ -1,6 +1,7 @@
 # Hi there, I'm Gaurav 
 
  M.Tech in Computer Science from **IIT Madras**  
+ MTS Oracle AI Data Platform
  Backend Developer at **Hero MotoCorp**, Bangalore  
 Former GenAI Intern at **GE Healthcare** – worked on radiology image & report generation  
 Passionate about **scalable systems**, **distributed architectures**, and **clean code**
